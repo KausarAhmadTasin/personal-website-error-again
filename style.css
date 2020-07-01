@@ -1,0 +1,205 @@
+h1{
+    font-size: 40px;
+    color: rgba(0, 0, 0, 0.836);
+    
+    
+
+}
+
+h2{
+    font-size: 30px;
+}
+
+.first-h1{
+   margin-top: 20%;
+   padding-bottom: 7%;
+}
+h3{
+    font-size: 22.5px;
+}
+
+body{
+    font-family: 'Nunito', sans-serif;
+    margin:0.6px ;
+
+}
+
+p{
+    font-size: 15px;
+    
+    color : dimgray;
+}
+
+.name-highlight{
+
+    background-image: linear-gradient( 45deg, rgb(71, 216, 209), rgb(92, 180, 235));
+    font-size: 42px;
+    border-radius: 6px;
+    
+}
+
+.name-highlight2{
+    background-image: linear-gradient( 45deg, rgb(71, 216, 209), rgb(92, 180, 235));
+    border-radius: 5px;
+    width: 40%;
+    margin-left: 30%;
+    height: 20%;
+    text-align: center;
+    color: white;
+    margin-top: 8%;
+    
+
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    
+    margin-left: 5%;
+    
+}
+
+.half-width img{
+    width: 90%;
+}
+
+.another-img{
+    padding-left: 35%; 
+}
+
+.introduction-area{
+    background-image: url("Personal-website/header-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    
+}
+
+section{
+    height : 500px;
+    padding-bottom: 200px;
+}
+
+.anchor-button{
+    text-decoration: none;
+    background-image: linear-gradient(120deg, rgb(71, 216, 209), rgb(92, 180, 235));
+    padding: 8px 16px;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    font-weight: 550;
+}
+
+.biography-area{
+    background-image: url("Personal-website/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+   
+
+}
+
+.another-highlight{
+    color:rgb(77, 182, 247) ;
+    font-size: 18px;
+   
+}
+
+.single-experience{
+    box-shadow: 10px 10px 40px gray ;
+    border-radius: 4px;
+    height: 60%;
+    width: 40%;
+    margin-left: 4.5%;
+    background-color: white;
+   
+}
+
+.experience-area{
+    background-image: url("Personal-website/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    text-align: center;
+}
+
+#full-stack{
+    border-left: 4px solid;
+    border-image: linear-gradient(rgb(238, 183, 80), rgb(238, 75, 11));
+    border-image-slice: 1;
+    border-radius: 1%;
+    
+}
+
+#baby-web{
+    border-left: 4px solid;
+    border-image:linear-gradient(rgba(14, 14, 235, 0.959), rgb(14, 247, 247));
+    border-image-slice: 1;
+    border-radius: 1%;
+
+}
+#latest{
+    text-align: center;
+}
+
+.latest-img{
+    width: 20%;
+    padding: 2.5%;
+    margin-left: 6%;
+    box-shadow: 1px 7px 20px gray ;
+    
+}
+
+.my-latest-work{
+    background-image: url("Personal-website/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+#kichu-niche{
+    margin-top: 2%;
+    
+}
+
+.what-client-say{
+    text-align: center;
+    background-image: url("Personal-website/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+    
+}
+
+
+h6{
+    color: rgb(175, 173, 173);
+}
+
+
+.grey2{
+    color: rgb(170, 159, 159);
+}
+
+h4{
+    font-size: 22px;
+}
+
+#client{
+    margin-bottom: 8%;
+}
+
+
+
+footer{
+    font-size: 12px;
+    color:rgb(170, 159, 159);
+    text-align: center;
+}
+
+a:visited{
+    color: white;
+}
+
+a:hover{
+    color: tomato;
+}
